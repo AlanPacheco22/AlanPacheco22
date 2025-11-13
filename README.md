@@ -8,4 +8,3 @@
 
 ⚡ “El código limpio no es una meta, es un hábito.” ⚡
 
-¿Quieres que te agregue también la tarjeta de lenguajes más usados (top-langs) y una firma animada opcional para hacerlo aún más completo y moderno?
